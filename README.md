@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I am Damilola Moliki-Salman👋
+🌱 Software Engineer
+💞️ I’m looking to collaborate on available projects within my capability
+📫 How to reach me damilolamolikisalman@gmail.com
 
 <!--
 **Moliki-Salman/Moliki-Salman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
