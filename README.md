@@ -1,5 +1,7 @@
- .  👋 Hi I am Damilola Moliki-Salman
- ###  🌱 Software Engineer
+- 👋 Hi I am Damilola Moliki-Salman
+ 
+- 🌱 Software Engineer
+ 
  ###  💞️ I’m looking to collaborate on available projects within my capability
  ###  📫 How to reach me damilolamolikisalman@gmail.com
 
